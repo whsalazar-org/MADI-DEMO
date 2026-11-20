@@ -1,3 +1,3 @@
 export function promotionLabel(name) {
-  return `Promotion: ${name}`;
+  return `${name} promotion`;
 }
