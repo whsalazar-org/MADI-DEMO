@@ -16,7 +16,7 @@ npm test
 
 ## Training defect
 
-This demo intentionally treats the end date as exclusive in
-`isDiscountActive`, even though the promotion policy says both boundaries are
-inclusive. The defect is retained for training; do not fix it or add the
-missing end-date regression test in this baseline.
+This demo intentionally treats the end date as exclusive in `isDiscountActive`,
+even though the promotion policy says both boundaries are inclusive. The defect
+is retained for training; do not fix it or add the missing end-date regression
+test in this baseline.
